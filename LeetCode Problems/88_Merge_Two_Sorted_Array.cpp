@@ -23,6 +23,7 @@ O(m+n) as we are inserting m+n elements in the nums1 array.
 Space complexity :
 O(1) no extra space required.
 */
+
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
