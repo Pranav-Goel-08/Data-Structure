@@ -39,7 +39,7 @@ public:
         }
 
         return min(prev1,prev2);
-    }
+    
 
     int minCostClimbingStairs(vector<int>& cost) {
 
