@@ -15,6 +15,6 @@ public:
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
         solve(ans,n,0,0,"");
-        return ans;
+        return ans
     }
 };
